@@ -4,7 +4,7 @@ import numpy as np
 from sklearn.svm import SVR
 from matplotlib import pyplot as plt
 
-aapl = get_data("QQQ", start_date="03/28/2021", end_date="03/28/2022", index_as_date = True, interval="1d")
+aapl = get_data("aapl", start_date="03/28/2021", end_date="03/28/2022", index_as_date = True, interval="1d")
 
 aapl.dropna(inplace=True)
 print(aapl)
