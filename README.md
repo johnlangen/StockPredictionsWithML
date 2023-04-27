@@ -1,2 +1,2 @@
-# MLFinalProject
+# StockPredictionsML
 
