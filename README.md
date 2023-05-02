@@ -2,6 +2,6 @@
 
 ## file contents
 * LSTM_PDF.pdf
-** contains
+- contains
 
 
