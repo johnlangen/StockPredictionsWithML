@@ -1,6 +1,7 @@
 # Stock Predictions Using Machine Learning.
 
 ## file contents
-* LSTM
+* LSTM_PDF.pdf
+** contains
 
 
